@@ -12,6 +12,7 @@ public class DierenwinkelApplication {
 		sh.getName();
 		
 		Kat k = new Kat();
+		k.name = "Poes";
 		k.canfly = false;
 		
 		// Dier d = new Dier(); Mag niet omdat die abstract is
