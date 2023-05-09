@@ -8,10 +8,11 @@ public class DierenwinkelApplication {
 		StraatHond sh = new StraatHond();
 		sh.name = "Woefie";
 		sh.species = "K9";
-		sh.weight = 380;
+		sh.weight = 561;
 		sh.getName();
 		
 		Kat k = new Kat();
+		k.name = "Poes";
 		k.canfly = false;
 		
 		// Dier d = new Dier(); Mag niet omdat die abstract is
