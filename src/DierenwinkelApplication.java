@@ -8,7 +8,7 @@ public class DierenwinkelApplication {
 		StraatHond sh = new StraatHond();
 		sh.name = "Woefie";
 		sh.species = "K9";
-		sh.weight = 380;
+		sh.weight = 560;
 		sh.getName();
 		
 		Kat k = new Kat();
